@@ -1,6 +1,0 @@
-dash
-dash-bootstrap-components
-nest-asyncio
-PyMuPDF
-PyPDF2
-gunicorn
